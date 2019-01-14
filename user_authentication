@@ -1,0 +1,6 @@
+Evaluation Checklist
+1. Code quality & readability: Will an average engineer be able to understand the tests just by briefly scanning through the source code?
+===>>> Yes, Engineer will be able to understand the test flow since the code used for CRUD is quite simple and well-organized
+2. Case coverage: Does the test cover all possible user scenarios?
+===>>> No, insufficient time is the main problem faced when working on a scenarios where somebody requires perfect results
+
